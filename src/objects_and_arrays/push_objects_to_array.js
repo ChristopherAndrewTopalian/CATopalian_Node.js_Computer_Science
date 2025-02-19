@@ -1,4 +1,4 @@
-// append_objects_to_array.js
+// push_objects_to_array.js
 
 let people = [];
 
@@ -17,6 +17,8 @@ people.push(tabitha);
 
 console.log(people);
 
+console.log('Press Enter to Exit');
+
 process.stdin.resume();
 process.stdin.once('data', function()
 {
@@ -27,6 +29,7 @@ process.stdin.once('data', function()
 
 /*
 [ { name: 'Jane', score: 98 }, { name: 'Tabitha', score: 95 } ]
+Press Enter to Exit
 */
 
 //----//
