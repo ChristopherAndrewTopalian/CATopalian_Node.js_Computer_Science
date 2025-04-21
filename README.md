@@ -13,6 +13,9 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+## stat
+[stat](src/js/fs/003_stat/001_stat/stat.js)
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
