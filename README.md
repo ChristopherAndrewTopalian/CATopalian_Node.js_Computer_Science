@@ -4,7 +4,9 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 # fs
 
 ## writeFile
-[writeFile](src/js/fs/writeFile/001_writeFile/writeFile.js)
+[writeFile](src/js/fs/001_writeFile/001_writeFile/writeFile.js)
+
+[writeFile append](src/js/fs/001_writeFile/002_writeFile_append/writeFile_append.js)
 
 ---
 
