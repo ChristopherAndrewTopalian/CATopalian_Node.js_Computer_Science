@@ -3,7 +3,13 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 # fs
 
-[writeFile](src/fs/writeFile/001_writeFile/writeFile.js)
+## writeFile
+[writeFile](src/js/fs/writeFile/001_writeFile/writeFile.js)
+
+---
+
+## readFile
+[readFile](src/js/fs/002_readFile/001_readFile/readFile.js)
 
 ---
 
