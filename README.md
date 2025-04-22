@@ -13,6 +13,8 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 ## readFile
 [readFile](src/js/fs/002_readFile/001_readFile/readFile.js)
 
+[readFile](src/js/fs/002_readFile/002_readFile_if_includes/readFile_if_includes.js)
+
 ---
 
 ## stat
