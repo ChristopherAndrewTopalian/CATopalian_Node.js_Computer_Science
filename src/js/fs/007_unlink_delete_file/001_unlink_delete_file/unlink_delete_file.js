@@ -2,11 +2,11 @@
 
 let fs = require('fs');
 
-fs.unlink('ourFile.txt', function(error)
+fs.unlink('ourFile.txt', function(theError)
 {
-    if (error)
+    if (theError)
     {
-        console.error('error deleting file:', error);
+        console.error('theError deleting file:', theError);
     }
     else
     {
