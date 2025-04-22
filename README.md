@@ -40,6 +40,11 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+## mkdir make directory
+[mkdir_make_directory](src/js/fs/006_mkdir/001_mkdir_make_directory/mkdir_make_directory.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
