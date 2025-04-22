@@ -17,12 +17,14 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 [readFile_first_line_if_includes](src/js/fs/002_readFile/003_readFile_first_line_if_includes/readFile_first_line_if_includes.js)
 
-[readFile_first_second_lines_if_includes](src/js/fs/002_readFile/004_readFile_first_second_lines_if_includes/readFile_first_second_lines_if_includes.js)
-
 ---
 
 ## stat
 [stat](src/js/fs/003_stat/001_stat/stat.js)
+
+[stat_checkFileSize_maxSize](src/js/fs/003_stat/002_stat_checkFileSize_maxSize/stat_checkFileSize_maxSize.js)
+
+---
 
 ### How to Download this App
 1. Click the green Code Button on this github page
