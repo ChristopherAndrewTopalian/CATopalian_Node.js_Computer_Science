@@ -35,6 +35,11 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+## rename
+[rename](src/js/fs/005_rename/001_rename/rename.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
