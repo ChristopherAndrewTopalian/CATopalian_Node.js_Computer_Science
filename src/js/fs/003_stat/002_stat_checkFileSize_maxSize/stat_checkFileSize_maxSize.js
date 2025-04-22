@@ -25,7 +25,7 @@ function checkFileSize()
 }
 
 // keep checking every 1000ms (1 second)
-setInterval(function()
+let timer001 = setInterval(function()
 {
     checkFileSize();
 }, 1000);
