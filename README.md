@@ -36,7 +36,9 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 ---
 
 ## rename
-[rename](src/js/fs/005_rename/001_rename/rename.js)
+[rename_file](src/js/fs/005_rename/001_rename_file/rename_file.js)
+
+[rename_folder](src/js/fs/005_rename/002_rename_folder/rename_folder.js)
 
 ---
 

@@ -1,4 +1,4 @@
-// rename.js
+// rename_file.js
 
 let fs = require('fs');
 
