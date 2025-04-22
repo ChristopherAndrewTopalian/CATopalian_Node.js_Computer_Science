@@ -51,6 +51,12 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+## rmdir_remove_directory
+
+[rmdir_remove_directory](src/js/fs/008_rmdir_remove_directory/001_rmdir_remove_directory/rmdir_remove_directory.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
