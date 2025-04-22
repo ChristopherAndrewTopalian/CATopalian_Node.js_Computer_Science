@@ -15,7 +15,7 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 [readFile_if_includes](src/js/fs/002_readFile/002_readFile_if_includes/readFile_if_includes.js)
 
-[readFile_first_line](src/js/fs/002_readFile/003_readFile_first_line/readFile_first_line.js)
+[readFile_first_line_if_includes](src/js/fs/002_readFile/003_readFile_first_line_if_includes/readFile_first_line_if_includes.js)
 
 ---
 
