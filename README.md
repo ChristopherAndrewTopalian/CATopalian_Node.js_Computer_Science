@@ -59,6 +59,14 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+## does file exist
+
+[existsSync_does_file_exist](src/js/fs/009_does_file_exist/001_existsSync_does_file_exist/existsSync_does_file_exist.js)
+
+[access_does_file_exist](src/js/fs/009_does_file_exist/002_access_does_file_exist/access_does_file_exist.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
