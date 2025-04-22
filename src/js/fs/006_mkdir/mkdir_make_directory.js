@@ -1,16 +1,16 @@
-// rename.js
+// mkdir_make_directory.js
 
 let fs = require('fs');
 
-fs.rename('ourFile.txt', 'renamedFile.txt', function(theError)
+fs.mkdir('ourNewFolder', function(theError)
 {
     if (theError)
     {
-        console.error('Error renaming file:', theError);
+        console.error('Error creating folder:', theError);
     }
     else
     {
-        console.log('File renamed successfully.');
+        console.log('Folder created successfully.');
     }
 });
 
