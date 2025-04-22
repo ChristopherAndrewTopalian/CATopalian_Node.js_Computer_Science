@@ -31,6 +31,8 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 ## watch
 [watch_folder](src/js/fs/004_watch/001_watch_folder/watch_folder.js)
 
+[watch_folder_Downloads](src/js/fs/004_watch/002_watch_folder_Downloads/watch_folder_Downloads.js)
+
 ---
 
 ### How to Download this App
