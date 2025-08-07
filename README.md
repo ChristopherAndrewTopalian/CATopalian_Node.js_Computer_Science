@@ -1,10 +1,18 @@
 # CATopalian Node.js Computer Science
 A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
+---
+
+# Development
+
+[Centralizing Node.js Worldwide Packages](src/development/centralizing_nodejs_worldwide_packages/centralizing_nodejs_worldwide_packages_a.md)  
+
+---
+
 # fs
 
 ## writeFile
-[writeFile](src/js/fs/001_writeFile/001_writeFile/writeFile.js)
+[writeFile](src/js/fs/001_writeFile/001_writeFile/writeFile.js)  
 
 [writeFile append](src/js/fs/001_writeFile/002_writeFile_append/writeFile_append.js)
 
