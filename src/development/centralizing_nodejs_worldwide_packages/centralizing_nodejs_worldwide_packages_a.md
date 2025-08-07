@@ -3,6 +3,8 @@
 # Summary: 
 ### We can make it so Node.js resolves modules worldwide, (like nodemailer, express, etc.) without having to install them into every project folder!
 
+[Worldwide VS Local - Pros and Cons](centralizing_nodejs_worldwide_packages_b.md)
+
 ---
 
 # Instructions:
