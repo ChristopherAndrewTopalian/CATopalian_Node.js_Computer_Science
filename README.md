@@ -75,12 +75,18 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+# Command Prompt
+
+[run_command_prompt_command](src/js/command_prompt/001_run_command_prompt_command/run_command_prompt_command.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Double click the HTML file to start the App
+5. Double click the README.md file to start the Tutorial
 
 ---
 
