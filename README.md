@@ -81,6 +81,12 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+# Browser
+
+[startBrowser](src/js/browser/startBrowser.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
