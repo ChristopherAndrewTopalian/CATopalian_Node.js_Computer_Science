@@ -87,6 +87,14 @@ A Collection of Useful Node.js Scripts that teach core principles of Node.js
 
 ---
 
+# OS
+
+# System
+
+[getSystemUptime](src/js/os/system/getSystemUptime.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
